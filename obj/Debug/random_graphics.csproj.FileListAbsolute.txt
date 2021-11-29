@@ -1,0 +1,10 @@
+\\Mac\Home\Documents\Code\c#\random_graphics\bin\Debug\random_graphics.exe.config
+\\Mac\Home\Documents\Code\c#\random_graphics\bin\Debug\random_graphics.exe
+\\Mac\Home\Documents\Code\c#\random_graphics\bin\Debug\random_graphics.pdb
+\\Mac\Home\Documents\Code\c#\random_graphics\obj\Debug\random_graphics.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Code\c#\random_graphics\obj\Debug\random_graphics.Form1.resources
+\\Mac\Home\Documents\Code\c#\random_graphics\obj\Debug\random_graphics.Properties.Resources.resources
+\\Mac\Home\Documents\Code\c#\random_graphics\obj\Debug\random_graphics.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Code\c#\random_graphics\obj\Debug\random_graphics.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Code\c#\random_graphics\obj\Debug\random_graphics.exe
+\\Mac\Home\Documents\Code\c#\random_graphics\obj\Debug\random_graphics.pdb
